@@ -1,9 +1,9 @@
 import pandas as pd
 import numpy as np
 
-file1= 'C:/Users/saumy/PycharmProjects/GeoLocation/DataSet/google-play-store-apps/googleplaystore.csv'
-file2 = 'C:/Users/saumy/PycharmProjects/GeoLocation/DataSet/bids-dataset-2/bid_requests.csv'
-file3 = 'C:/Users/saumy/PycharmProjects/GeoLocation/DataSet/us-500/us-500.csv'
+file1= 'C:/Users/rady/PycharmProjects/GeoLocation/DataSet/google-play-store-apps/googleplaystore.csv'
+file2 = 'C:/Users/rady/PycharmProjects/GeoLocation/DataSet/bids-dataset-2/bid_requests.csv'
+file3 = 'C:/Users/rady/PycharmProjects/GeoLocation/DataSet/us-500/us-500.csv'
 
 
 app = pd.read_csv(file1)
